@@ -1,5 +1,5 @@
 
-function loadIssue(){
+function loadIssues(){
   
   //Creates a json object to use when rendering the template later
   var issue={
